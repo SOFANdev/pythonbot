@@ -1,7 +1,6 @@
 import discord
 import asyncio
 from discord.ext import commands
-from prsaw import RandomStuff
 import os
 import json
 
