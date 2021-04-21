@@ -1,0 +1,6 @@
+discord.py
+asyncio
+os
+json
+prsaw RandomStuff
+discord.ext commands
