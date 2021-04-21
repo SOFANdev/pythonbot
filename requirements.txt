@@ -2,4 +2,5 @@ discord.py
 asyncio
 os
 json
-discord.ext commands
+discord.ext
+commands
