@@ -248,7 +248,7 @@ async def coinflip(ctx):
 
   #   await ctx.send(embed=em)
 
-client.run('NjQyMzYzODE0MzY0NTc3ODA3.XcV16w.VYJ5n5v1vMid1fNa6E-NVJ02KAQ')
+client.run('NjQyMzYzODE0MzY0NTc3ODA3.XcV16w.SZaZg0CZv1nm_YRn2BHhGXAWjrU')
 
 #un if needed
 
